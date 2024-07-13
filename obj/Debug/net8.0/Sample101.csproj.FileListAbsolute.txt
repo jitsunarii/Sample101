@@ -1,0 +1,14 @@
+/Users/yjyou/Desktop/C#/Practice01/Sample101/Sample101/bin/Debug/net8.0/Sample101
+/Users/yjyou/Desktop/C#/Practice01/Sample101/Sample101/bin/Debug/net8.0/Sample101.deps.json
+/Users/yjyou/Desktop/C#/Practice01/Sample101/Sample101/bin/Debug/net8.0/Sample101.runtimeconfig.json
+/Users/yjyou/Desktop/C#/Practice01/Sample101/Sample101/bin/Debug/net8.0/Sample101.dll
+/Users/yjyou/Desktop/C#/Practice01/Sample101/Sample101/bin/Debug/net8.0/Sample101.pdb
+/Users/yjyou/Desktop/C#/Practice01/Sample101/Sample101/obj/Debug/net8.0/Sample101.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yjyou/Desktop/C#/Practice01/Sample101/Sample101/obj/Debug/net8.0/Sample101.AssemblyInfoInputs.cache
+/Users/yjyou/Desktop/C#/Practice01/Sample101/Sample101/obj/Debug/net8.0/Sample101.AssemblyInfo.cs
+/Users/yjyou/Desktop/C#/Practice01/Sample101/Sample101/obj/Debug/net8.0/Sample101.csproj.CoreCompileInputs.cache
+/Users/yjyou/Desktop/C#/Practice01/Sample101/Sample101/obj/Debug/net8.0/Sample101.dll
+/Users/yjyou/Desktop/C#/Practice01/Sample101/Sample101/obj/Debug/net8.0/refint/Sample101.dll
+/Users/yjyou/Desktop/C#/Practice01/Sample101/Sample101/obj/Debug/net8.0/Sample101.pdb
+/Users/yjyou/Desktop/C#/Practice01/Sample101/Sample101/obj/Debug/net8.0/Sample101.genruntimeconfig.cache
+/Users/yjyou/Desktop/C#/Practice01/Sample101/Sample101/obj/Debug/net8.0/ref/Sample101.dll
